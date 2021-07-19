@@ -4,3 +4,6 @@ Donuts 4.99 1500cal
 
 Mocha 3.99 200cal
 Espresso 3.25 250 cal
+
+
+Lunch menu:
