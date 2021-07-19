@@ -10,3 +10,8 @@ Lunch menu:
 
 butter ckicken 1200cal 10.99
 Plov 2000 cal 15.99
+
+Burger 10000cal 9.99
+Burrito 500cal 3.99
+Doner 400cal 8.99
+Kebob 500cal 9.99
