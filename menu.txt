@@ -15,3 +15,9 @@ Burger 10000cal 9.99
 Burrito 500cal 3.99
 Doner 400cal 8.99
 Kebob 500cal 9.99
+
+Steak 600cal 13.99
+Sandwich 400cal 4.99
+
+pizza 3000cal 9.99
+soup 30cal 3.99
